@@ -1,5 +1,3 @@
-# File: text_wizard.py
-
 class text_wizard:
 
     def word_count(text):
